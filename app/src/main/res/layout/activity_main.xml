@@ -41,7 +41,7 @@
         android:layout_gravity="center_horizontal"
         android:text="Acessar"/>
 
-    <Button
+    <TextView
         android:id="@+id/register"
         android:layout_width="150sp"
         android:layout_height="wrap_content"
