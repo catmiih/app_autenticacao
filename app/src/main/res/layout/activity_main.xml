@@ -5,8 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:layout_gravity="center_vertical"
-    tools:context=".MainActivity">
+    android:layout_gravity="center_vertical">
 
 
     <TextView
@@ -35,13 +34,13 @@
         android:textAlignment="center"/>
 
     <Button
-        android:id="@+id/acess"
+        android:id="@+id/access"
         android:layout_width="150sp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="Acessar"/>
 
-    <TextView
+    <Button
         android:id="@+id/register"
         android:layout_width="150sp"
         android:layout_height="wrap_content"
